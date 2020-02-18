@@ -1,0 +1,5 @@
+D:\Proyectos .NET\TCPServer\CUProtocol\bin\Debug\CUProtocol.dll
+D:\Proyectos .NET\TCPServer\CUProtocol\bin\Debug\CUProtocol.pdb
+D:\Proyectos .NET\TCPServer\CUProtocol\obj\Debug\CUProtocol.dll
+D:\Proyectos .NET\TCPServer\CUProtocol\obj\Debug\CUProtocol.pdb
+D:\Proyectos .NET\TCPServer\CUProtocol\obj\Debug\CUProtocol.csprojResolveAssemblyReference.cache

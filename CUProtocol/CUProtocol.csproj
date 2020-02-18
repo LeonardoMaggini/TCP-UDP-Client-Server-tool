@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PlugIn</RootNamespace>
+    <AssemblyName>CUProtocol</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckUpdate.cs" />
+    <Compile Include="CheckUpdateActualizacion.cs" />
+    <Compile Include="CheckUpdateEncabezado.cs" />
+    <Compile Include="CheckUpdateEncabezadoActualizacion.cs" />
+    <Compile Include="CheckUpdateInfoActualizacion.cs" />
+    <Compile Include="CheckUpdateInfoUpdate.cs" />
+    <Compile Include="CheckUpdloadFile.cs" />
+    <Compile Include="CheckUpdloadFileResponse.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClienteConcentrador.cs" />
+    <Compile Include="CodigosRespuesta.cs" />
+    <Compile Include="CRC32CITT.cs" />
+    <Compile Include="DatosMensaje.cs" />
+    <Compile Include="EstructurasInfoUpdate.cs" />
+    <Compile Include="Firma.cs" />
+    <Compile Include="GetUpdate.cs" />
+    <Compile Include="GetUpdateResponse.cs" />
+    <Compile Include="Header.cs" />
+    <Compile Include="IPlugeable.cs" />
+    <Compile Include="Mensaje.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendFile.cs" />
+    <Compile Include="SendFileResponse.cs" />
+    <Compile Include="TipoUpdate.cs" />
+    <Compile Include="UpdateResult.cs" />
+    <Compile Include="UpdateResultResponse.cs" />
+    <Compile Include="UploadResult.cs" />
+    <Compile Include="UploadResultResponse.cs" />
+    <Compile Include="Utiles.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="VERSION_UPDATE.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

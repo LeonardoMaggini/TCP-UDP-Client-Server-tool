@@ -1,0 +1,4 @@
+D:\Proyectos .NET\TCPServer\LGServerProtocol\bin\Debug\LGServerProtocol.dll
+D:\Proyectos .NET\TCPServer\LGServerProtocol\bin\Debug\LGServerProtocol.pdb
+D:\Proyectos .NET\TCPServer\LGServerProtocol\obj\Debug\LGServerProtocol.dll
+D:\Proyectos .NET\TCPServer\LGServerProtocol\obj\Debug\LGServerProtocol.pdb

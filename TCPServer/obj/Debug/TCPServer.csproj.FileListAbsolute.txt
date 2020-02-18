@@ -1,0 +1,5 @@
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\TCPServer.dll
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\TCPServer.dll
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache

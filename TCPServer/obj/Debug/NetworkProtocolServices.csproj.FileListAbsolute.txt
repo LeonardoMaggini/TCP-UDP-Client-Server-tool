@@ -1,0 +1,7 @@
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\NetworkProtocolServices.dll
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\NetworkProtocolServices.pdb
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\Logger.dll
+D:\Proyectos .NET\TCPServer\TCPServer\bin\Debug\Logger.pdb
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\NetworkProtocolServices.csprojResolveAssemblyReference.cache
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\NetworkProtocolServices.dll
+D:\Proyectos .NET\TCPServer\TCPServer\obj\Debug\NetworkProtocolServices.pdb
