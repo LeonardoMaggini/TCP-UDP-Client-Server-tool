@@ -1,0 +1,23 @@
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\TCP-UDP Client Server.exe.config
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\TCP-UDP Client Server.exe
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\TCP-UDP Client Server.pdb
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\CUProtocol.dll
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\Logger.dll
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\NetworkProtocolServices.dll
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\Logger.pdb
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\CUProtocol.pdb
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\bin\Debug\NetworkProtocolServices.pdb
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.csprojResolveAssemblyReference.cache
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.formCP.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormMain.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormTCPClient.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.csproj.GenerateResource.Cache
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.exe
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.pdb
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Proyectos .NET\TCPServer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Proyectos .NET\TCPServer - copia\WindowsFormsApplication1\bin\Debug\TCP-UDP Client Server.exe.config
+D:\Proyectos .NET\TCPServer - copia\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.exe
+D:\Proyectos .NET\TCPServer - copia\WindowsFormsApplication1\obj\Debug\TCP-UDP Client Server.pdb

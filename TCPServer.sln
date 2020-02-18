@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkProtocolServices", "TCPServer\NetworkProtocolServices.csproj", "{E6E8D2DF-ECF0-43AF-8E9A-6498CA4AEF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP-UDP Client Server", "WindowsFormsApplication1\TCP-UDP Client Server.csproj", "{DC4BE5E8-21A3-4EF8-B2CB-E3039A6A9297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "..\Logger\Logger.csproj", "{D6B47172-B161-4F09-83F4-6DA107121E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUProtocol", "CUProtocol\CUProtocol.csproj", "{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMProtocol", "TMProtocol\TMProtocol.csproj", "{C8815D0D-4BA0-450B-9DEE-5946675D5ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGServerProtocol", "LGServerProtocol\LGServerProtocol.csproj", "{8079C0CC-177B-4824-B10E-77665EED34F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E8D2DF-ECF0-43AF-8E9A-6498CA4AEF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E8D2DF-ECF0-43AF-8E9A-6498CA4AEF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E8D2DF-ECF0-43AF-8E9A-6498CA4AEF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E8D2DF-ECF0-43AF-8E9A-6498CA4AEF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4BE5E8-21A3-4EF8-B2CB-E3039A6A9297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4BE5E8-21A3-4EF8-B2CB-E3039A6A9297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4BE5E8-21A3-4EF8-B2CB-E3039A6A9297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4BE5E8-21A3-4EF8-B2CB-E3039A6A9297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B47172-B161-4F09-83F4-6DA107121E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B47172-B161-4F09-83F4-6DA107121E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B47172-B161-4F09-83F4-6DA107121E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B47172-B161-4F09-83F4-6DA107121E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E8E4CB-7C9C-4036-A4D7-75238179F2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8815D0D-4BA0-450B-9DEE-5946675D5ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8815D0D-4BA0-450B-9DEE-5946675D5ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8815D0D-4BA0-450B-9DEE-5946675D5ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8815D0D-4BA0-450B-9DEE-5946675D5ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8079C0CC-177B-4824-B10E-77665EED34F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8079C0CC-177B-4824-B10E-77665EED34F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8079C0CC-177B-4824-B10E-77665EED34F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8079C0CC-177B-4824-B10E-77665EED34F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
